@@ -3,7 +3,7 @@
 <p align = "center">
   <a href="https://github.com/matan2288">
     <img height="185em" src="https://github-readme-stats.vercel.app/api?username=matan2288&show_icons=true&theme=tokyonight&count_private=true" />
-    <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matan2288&layout=compact&langs_count=16&theme=tokyonight" />
+    <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matan2288&layout=compact&langs_count=6&theme=tokyonight" />
   </a>
 </p>
 
