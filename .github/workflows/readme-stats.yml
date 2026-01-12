@@ -1,4 +1,4 @@
-name: Generate README Stats
+name: Generate GitHub Profile Cards
 
 on:
   schedule:
@@ -9,36 +9,22 @@ permissions:
   contents: write
 
 jobs:
-  generate:
+  cards:
     runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate GitHub Stats
-        uses: anuraghazra/github-readme-stats@v2
+      - name: Generate profile summary SVG
+        uses: vn7n24fzkq/github-profile-summary-cards@latest
         with:
-          username: matan2288
-          theme: tokyonight
-          show_icons: true
-          count_private: true
-          hide_border: true
-          output: stats.svg
+          USERNAME: matan2288
+          OUTPUT: summary.svg
 
-      - name: Generate Top Languages
-        uses: anuraghazra/github-readme-stats@v2
-        with:
-          username: matan2288
-          theme: tokyonight
-          layout: compact
-          langs_count: 6
-          hide_border: true
-          output: langs.svg
-
-      - name: Commit SVGs
+      - name: Commit SVG
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add stats.svg langs.svg
-          git commit -m "Update README stats" || exit 0
+          git add summary.svg
+          git commit -m "update profile summary" || exit 0
           git push
