@@ -16,7 +16,7 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Generate GitHub Stats
-        uses: anuraghazra/github-readme-stats@v1.3.0
+        uses: anuraghazra/github-readme-stats@v2
         with:
           username: matan2288
           theme: tokyonight
@@ -26,7 +26,7 @@ jobs:
           output: stats.svg
 
       - name: Generate Top Languages
-        uses: anuraghazra/github-readme-stats@v1.3.0
+        uses: anuraghazra/github-readme-stats@v2
         with:
           username: matan2288
           theme: tokyonight
