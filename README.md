@@ -9,10 +9,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/matan2288.png" alt="Matan" width="180" height="180" style="border-radius: 50%; object-fit: cover;" />
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=matan2288&color=36BCF7&style=for-the-badge" alt="Profile views" />
 </p>
 
@@ -39,8 +35,6 @@
 
 <p align="center">
   <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/></a>
-  &nbsp;&nbsp;
-  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/></a>
   &nbsp;&nbsp;
   <a href="https://reactnative.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React Native"/></a>
   &nbsp;&nbsp;
