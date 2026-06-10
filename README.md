@@ -9,7 +9,7 @@
 <p align="center"><em>Combining solid engineering with AI-driven workflows — Cursor, MCP &amp; agent tooling</em></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=720&lines=Experienced+AI-Driven+Software+Developer;Cursor+%7C+MCP+%7C+Context+Engineering+%7C+Agent+Orchestration+%7C+RAG+%7C+Vector+DB;React+%7C+TypeScript+%7C+React+Native+%7C+VueJS;Java+%7C+Node.js+%7C+MySQL+%7C+GraphQL;Playwright+%7C+Vitest+%7C+Code+Quality;Adobe+AEM+%7C+Adobe+Analytics+%7C+Wordpress" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Experienced+AI-Driven+Software+Developer;Cursor+%7C+MCP+%7C+Context+Engineering+%7C+Agent+Orchestration+%7C+RAG+%7C+Vector+DB;React+%7C+TypeScript+%7C+React+Native+%7C+VueJS;Java+%7C+Node.js+%7C+MySQL+%7C+GraphQL;Playwright+%7C+Vitest+%7C+Code+Quality;Adobe+AEM+%7C+Adobe+Analytics+%7C+Wordpress" alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -43,7 +43,7 @@
   <a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind CSS"/></a>
   <a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js"/></a>
   <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB"/></a>
-  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/></a>
+  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="Alt="MySQL"/></a>
   <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/></a>
   <a href="https://playwright.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" width="40" height="40" alt="Playwright"/></a>
   <a href="https://vitest.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitest/vitest-original.svg" width="40" height="40" alt="Vitest"/></a>
