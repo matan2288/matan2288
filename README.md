@@ -3,7 +3,7 @@
 # 👋 Hello, I'm Matan
 
 <p align="center">
-  <img src="https://github.com/matan2288.png" alt="Matan" width="180" style="border-radius: 50%;" />
+  <img src="https://github.com/matan2288.png" alt="Matan" width="180" height="180" style="border-radius: 50%; object-fit: cover;" />
 </p>
 
 <p align="center"><em>Building software with modern engineering principles and AI-native workflows.</em></p>
@@ -28,14 +28,6 @@
 ---
 
 ## 🛠️ Tech Stack
-
-<p align="center">
-  <a href="https://cursor.com/"><img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logoColor=white" alt="Cursor"/></a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-36BCF7?style=for-the-badge" alt="MCP"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/AI--Driven-Development-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" alt="AI-Driven Development"/>
-</p>
 
 <p align="center">
   <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/></a>
@@ -65,36 +57,6 @@
   <a href="https://vitejs.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="40" height="40" alt="Vite"/></a>
   &nbsp;&nbsp;
   <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/></a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=FCC72B" alt="Vitest"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
 ---
