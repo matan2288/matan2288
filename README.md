@@ -15,19 +15,6 @@
 
 ---
 
-## 📚 My Repositories Organization
-
-I've organized my 48+ repositories into **4 GitHub Organizations** for better project management:
-
-| 📦 | 🚀 | 📖 | ⚙️ |
-|:--:|:--:|:--:|:--:|
-| **[Completed Projects](https://github.com/matan2288-completed-projects)** | **[Ongoing Projects](https://github.com/matan2288-ongoing-projects)** | **[Interview Training](https://github.com/matan2288-interview-training)** | **[Personal Configs](https://github.com/matan2288-personal-configs)** |
-| Finished & stable projects | Active development | Learning & DSA | Tools & utilities |
-
-**→ [Full Repository Navigation Guide](./REPOSITORY_ORGANIZATION_INSTRUCTIONS.md)**
-
----
-
 ## 🛠️ Tech Stack
 
 <p align="center">
