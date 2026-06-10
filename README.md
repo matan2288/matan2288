@@ -3,10 +3,10 @@
 # 👋 Hello, I'm Matan
 
 <p align="center">
-  <img src="https://github.com/matan2288.png" alt="Matan" width="180" />
+  <img src="https://github.com/matan2288.png" alt="Matan" width="180" style="border-radius: 50%;" />
 </p>
 
-<p align="center"><em>Combining solid engineering with AI-driven workflows — Cursor, MCP &amp; agent tooling</em></p>
+<p align="center"><em>Building software with modern engineering principles and AI-native workflows.</em></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=720&lines=Experienced+AI-Driven+Software+Developer;Cursor+%7C+MCP+%7C+Context+Engineering+%7C+Agent+Orchestration;RAG+%7C+Vector+DB;React+%7C+TypeScript+%7C+React+Native+%7C+VueJS;Java+%7C+Node.js+%7C+MySQL+%7C+GraphQL;Playwright+%7C+Vitest+%7C+Code+Quality;Adobe+AEM+%7C+Adobe+Analytics+%7C+Wordpress" alt="Typing animation" />
@@ -58,3 +58,4 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/matan-elmaliach/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
+
