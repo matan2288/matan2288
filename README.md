@@ -3,13 +3,13 @@
 # 👋 Hello, I'm Matan
 
 <p align="center">
-  <img src="https://github.com/matan2288.png" alt="Matan" width="180" height="180" style="border-radius: 50%; object-fit: cover;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=720&lines=Experienced+AI-Driven+Software+Developer;Cursor+%7C+MCP+%7C+Context+Engineering+%7C+Agent+Orchestration;React+%7C+TypeScript+%7C+React+Native+%7C+VueJS;Java+%7C+Node.js+%7C+MySQL+%7C+GraphQL;Playwright+%7C+Vitest+%7C+Vite;Adobe+AEM+%7C+Adobe+Analytics" alt="Typing animation" />
 </p>
 
 <p align="center"><em>Building software with modern engineering principles and AI-native workflows.</em></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=720&lines=Experienced+AI-Driven+Software+Developer;Cursor+%7C+MCP+%7C+Context+Engineering+%7C+Agent+Orchestration;React+%7C+TypeScript+%7C+React+Native+%7C+VueJS;Java+%7C+Node.js+%7C+MySQL+%7C+GraphQL;Playwright+%7C+Vitest+%7C+Vite;Adobe+AEM+%7C+Adobe+Analytics" alt="Typing animation" />
+  <img src="https://github.com/matan2288.png" alt="Matan" width="180" height="180" style="border-radius: 50%; object-fit: cover;" />
 </p>
 
 <p align="center">
@@ -28,6 +28,14 @@
 ---
 
 ## 🛠️ Tech Stack
+
+<p align="center">
+  <a href="https://cursor.com/"><img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logoColor=white" alt="Cursor"/></a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-36BCF7?style=for-the-badge" alt="MCP"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/AI--Driven-Development-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" alt="AI-Driven Development"/>
+</p>
 
 <p align="center">
   <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/></a>
