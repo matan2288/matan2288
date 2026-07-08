@@ -8,14 +8,15 @@
   <em>Building software with modern engineering principles and AI-native workflows.</em>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=matan2288&color=36BCF7&style=for-the-badge" alt="Profile views" />
-</p>
+
 
 <p align="center">
   <img height="165" src="https://streak-stats.demolab.com/?user=matan2288&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=matan2288&color=36BCF7&style=for-the-badge" alt="Profile views" />
+</p>
 ---
 
 ## 🛠️ Tech Stack
