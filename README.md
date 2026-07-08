@@ -13,8 +13,8 @@
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=matan2288&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matan2288&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=matan2288&show_icons=true&theme=tokyonight&cache_seconds=86400" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=matan2288&layout=compact&theme=tokyonight&cache_seconds=86400" alt="Top Languages" />
 </p>
 
 <p align="center">
